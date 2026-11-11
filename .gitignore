@@ -1,0 +1,15 @@
+# MATLAB / Octave
+*.asv
+*.autosave
+*.mex*
+octave-workspace
+slprj/
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Secrets (never commit)
+.env
+*.key
+*.pem
